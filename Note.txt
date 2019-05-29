@@ -1,2 +1,3 @@
 Note : 
 1. Array (Linier Search, Simple Sorting)
+2. Data Structure & Algorithms (Stack)
