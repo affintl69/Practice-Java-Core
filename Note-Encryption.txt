@@ -1,4 +1,7 @@
 Note
-1. DES
-2. DESede
-3. AES
+A. Symmetric Encryption
+  A.1. DES
+  A.2. DESede
+  A.3. AES
+B. Asymmetric Encryption
+  B.1. RSA
